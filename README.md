@@ -70,7 +70,7 @@
         </ol>
     </li>
 </ol>
-<p style="margin-top:0pt; margin-bottom:0pt;"><img ![User pie chart](https://github.com/jakesalinas/Bellabeat-Case-Study/assets/116672106/93fe2b70-5d1a-442e-b207-546557e64947) 
+<p style="margin-top:0pt; margin-bottom:0pt;"><img <img src="https://github.com/jakesalinas/Bellabeat-Case-Study/assets/116672106/93fe2b70-5d1a-442e-b207-546557e64947" alt="User pie chart">
 </p>
 
 <p style="margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt;">-<span style="width:14.34pt; font:7pt 'Times New Roman'; display:inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>This shows the distribution of users of which a majority are classified as sedentary while using their smart device. Although it is understandable for many users who work from a desk or a more sedentary lifestyle this is an area where many users can progress.</p>
@@ -78,7 +78,7 @@
 <ol start="2" type="i" style="margin:0pt; padding-left:0pt;">
     <li style="margin-left:95pt; padding-left:13pt;">Next, I wanted to understand the distribution of steps and calories burned throughout the day. I did this by creating a view that calculates the average calories and steps by each hour of the day. Then import that data into Excel so it will be compatible with Tableau public. The following graph shows the relationship between the number of calories burned and the number of steps recorded that hour.</li>
 </ol>
-<p style="margin-top:0pt; margin-bottom:0pt;"><img ![Calories vs steps per hour](https://github.com/jakesalinas/Bellabeat-Case-Study/assets/116672106/41aa1e09-9dc2-4f81-9383-69cb9103b208)
+<p style="margin-top:0pt; margin-bottom:0pt;"><img src="https://github.com/jakesalinas/Bellabeat-Case-Study/assets/116672106/41aa1e09-9dc2-4f81-9383-69cb9103b208" alt="Calories vs steps per hour">
 </p>
 
 <p style="margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt;">-<span style="width:14.34pt; font:7pt 'Times New Roman'; display:inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>What we can infer from this graph is that as you take more steps within any given hour you burn more calories. While this may seem like an obvious point we find that there are a decent amount of data points where there were few or zero steps taken but far more calories burned than expected. If we were to speculate we could imagine that perhaps this person was swimming, on an exercise bike, or perhaps their device simply did not record their steps correctly.</p>
@@ -86,7 +86,7 @@
 <ol start="3" type="i" style="margin:0pt; padding-left:0pt;">
     <li style="margin-left:95pt; padding-left:13pt;">Lastly, I wanted to look at the distribution of steps and calories by the hour to see when users are active and when they are not. I used a query to create a view that shows the number of calories burned and steps taken by each user and each hour. We then imported that data into a Google sheet which allows us to create a visualization in Tableau. The following graph represents the averages by the hour for both calories and steps so that we can gain insights into user activity.</li>
 </ol>
-<p style="margin-top:0pt; margin-bottom:0pt;"><img ![Hourly avg of steps and calories](https://github.com/jakesalinas/Bellabeat-Case-Study/assets/116672106/a21e02a5-ac0f-41c5-a092-13d1b9d9f6cc)
+<p style="margin-top:0pt; margin-bottom:0pt;"><img <img src="https://github.com/jakesalinas/Bellabeat-Case-Study/assets/116672106/a21e02a5-ac0f-41c5-a092-13d1b9d9f6cc" alt="Hourly avg of steps and calories">
 </p>
 
 <p style="margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt;">-<span style="width:14.34pt; font:7pt 'Times New Roman'; display:inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>From this graph, we can tell that users get up and moving as early as 5 a.m. where we begin to see the average steps as well as the average calories burned each hour begin to increase. We see a gradual rise in both average steps and calories throughout the day until we hit the 5 p.m. mark when we see a slight drop. We can infer that this is generally when people commute home from work and thus are sitting in a car or public transit. You can also see that there are a few bumps around noon and from 7 p.m. - 9 p.m. Again we can infer that these are more active times because of lunch at noon and possibly the gym or social activities in the evening bump.</p>
