@@ -3,7 +3,7 @@
 <ol type="1" style="margin:0pt; padding-left:0pt;">
     <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:bold;">Background<ol type="a" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
             <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:normal;">About the company<ol type="i" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
-                    <li style="margin-left:23pt; padding-left:13pt;">Bellabeat is a high-tech manufacturer of health-focused smart devices for women. The devices that they produce collect health and fitness data to educate and empower women on their habits.&nbsp; While Bellabeat is a highly successful company it intends to grow its presence in the smart device market.</li>
+                    <li style="margin-left:23pt; padding-left:13pt;">Bellabeat is a high-tech manufacturer of health-focused smart devices for women. The devices that they produce collect health and fitness data to educate and empower women on their habits. While Bellabeat is a highly successful company it intends to grow its presence in the smart device market.</li>
                 </ol>
             </li>
         </ol>
@@ -37,7 +37,11 @@
             </li>
             <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:normal;">Data structure<ol type="i" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
                     <li style="margin-left:23pt; padding-left:13pt;">The data set is organized into 18 different CSV files, of which the majority would be classified as long data. There are 3 files of those 18 which are in a wide format instead.</li>
+                                </ol>
+            </li>
                     <li style="margin-left:23pt; padding-left:13pt;">All of those 18 tables contain a primary key <strong>Id</strong> in addition to other table-specific variables such as <strong>Steps, Calories, Weight, ActivityDate, Sleep,&nbsp;</strong>etc. While all of the data contains some kind of date variable, we would like to focus on the tables that contain day and hour values rather than the tables containing minutes.</li>
+                        </ol>
+            </li>
                     <li style="margin-left:23pt; padding-left:13pt;">The dataset specifies that the sample size of users is 30 users for all tables. Upon initial inspection, we find that the activity table has a user size of 33, sleep has a size of 24, heart rate has a sample size of 7, and finally, the weight table has a sample size of 8.</li>
                 </ol>
             </li>
