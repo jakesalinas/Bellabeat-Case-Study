@@ -1,8 +1,8 @@
 # Bellabeat-Case-Study
 <p style="margin-top:0pt; margin-bottom:0pt;">&nbsp;</p>
 <ol type="1" style="margin:0pt; padding-left:0pt;">
-    <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:bold;">Background<ol type="a" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
-            <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:normal;">About the company<ol type="i" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
+    <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:bold;">Background<ol type="i" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
+            <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:normal;">About the company<ol type="a" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
                     <li style="margin-left:23pt; padding-left:13pt;">Bellabeat is a high-tech manufacturer of health-focused smart devices for women. The devices that they produce collect health and fitness data to educate and empower women on their habits. While Bellabeat is a highly successful company it intends to grow its presence in the smart device market.</li>
                 </ol>
             </li>
