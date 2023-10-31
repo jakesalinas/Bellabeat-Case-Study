@@ -1,32 +1,42 @@
 # Bellabeat-Case-Study
 <p style="margin-top:0pt; margin-bottom:0pt;">&nbsp;</p>
+
 <ol type="1" style="margin:0pt; padding-left:0pt;">
-    <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:bold;">Background<ol type="i" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
-            <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:normal;">About the company<ol type="a" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
+    <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:bold;">Background
+        <ol type="a" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
+            <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:normal;">About the company
+                <ol type="a" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
                     <li style="margin-left:23pt; padding-left:13pt;">Bellabeat is a high-tech manufacturer of health-focused smart devices for women. The devices that they produce collect health and fitness data to educate and empower women on their habits. While Bellabeat is a highly successful company it intends to grow its presence in the smart device market.</li>
                 </ol>
             </li>
         </ol>
-    </li>
-</ol>
+
 <p style="margin-top:0pt; margin-left:108pt; margin-bottom:0pt;">&nbsp;</p>
+
 <ol start="2" type="a" style="margin:0pt; padding-left:0pt;">
-    <li style="margin-left:68.17pt; padding-left:3.83pt;">Key stakeholders<ol type="i" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
+    <li style="margin-left:68.17pt; padding-left:3.83pt;">Key stakeholders
+        <ol type="i" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
             <li style="margin-left:23pt; padding-left:13pt;">&nbsp;Urska Srsen, Bellabeat&apos;s co-founder and Chief Creative Officer; Sando Mur, Mathematician, and Bellabeat&apos;s cofounder; And the rest of the Bellabeat marketing analytics team.</li>
         </ol>
     </li>
 </ol>
+
 <p style="margin-top:0pt; margin-left:108pt; margin-bottom:0pt;">&nbsp;</p>
+
 <ol start="3" type="a" style="margin:0pt; padding-left:0pt;">
-    <li style="margin-left:67.56pt; padding-left:4.44pt;">Business task<ol type="i" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
+    <li style="margin-left:67.56pt; padding-left:4.44pt;">Business tasks
+        <ol type="a" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
             <li style="margin-left:23pt; padding-left:13pt;">Analyze smart device usage from non-Bellabeat products to gain insight into how customers use their devices. Compare and apply those insights to one of the Bellabeat products and deliver high-level recommendations to the Bellabeat marketing strategy.</li>
         </ol>
     </li>
 </ol>
+
 <p style="margin-top:0pt; margin-left:108pt; margin-bottom:0pt;">&nbsp;</p>
-<ol start="2" type="i" style="margin:0pt; padding-left:0pt;">
+
+<ol start="4" type="a" style="margin:0pt; padding-left:0pt;">
     <li style="margin-left:67.56pt; padding-left:13pt;">How can Bellabeat increase its presence in the smart device market?</li>
 </ol>
+
 <p style="margin-top:0pt; margin-left:108pt; margin-bottom:0pt;">&nbsp;</p>
 <ol start="2" type="1" style="margin:0pt; padding-left:0pt;">
     <li style="margin-left:32.17pt; padding-left:3.83pt; font-weight:bold;">Data Preparation<ol type="a" style="margin-right:0pt; margin-left:0pt; padding-left:0pt;">
